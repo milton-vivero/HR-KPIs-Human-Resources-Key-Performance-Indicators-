@@ -39,9 +39,6 @@ El tablero de control está estructurado bajo reglas de negocio orientadas a la 
 *   **Rendimiento por Liderazgo:** Ranking dinámico de producción promedio segmentado por jefe responsable, facilitando la detección de equipos de alta eficiencia.
 *   **Filtros de Segmentación Multi-Nivel:** Inclusión de paneles interactivos para aislar la información al instante por ciudad geográfica (Quito, Cuenca, Guayaquil, etc.) o por supervisor a cargo.
 
-<img width="964" height="548" alt="image" src="https://github.com/user-attachments/assets/5d7e5513-2c26-4bf7-b23f-aa40f4920701" />
-
-
 ---
 
 
