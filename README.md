@@ -25,9 +25,6 @@ El proyecto permite:
 
 <img width="971" height="540" alt="image" src="https://github.com/user-attachments/assets/002f0f09-39d0-461e-b74c-4231e6db068b" />
 
-
-> 💡 **Nota:** reemplaza la URL anterior por la imagen que tengas publicada en GitHub.
-
 ---
 
 ## 🏆 Indicadores Principales
