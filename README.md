@@ -23,9 +23,8 @@ El proyecto permite:
 
 ## 📸 Vista del Dashboard
 
-<p align="center">
-  <img width="100%" alt="People Analytics Dashboard" src="https://github.com/user-attachments/assets/REEMPLAZAR-CON-LA-IMAGEN-DE-TU-DASHBOARD" />
-</p>
+<img width="971" height="540" alt="image" src="https://github.com/user-attachments/assets/002f0f09-39d0-461e-b74c-4231e6db068b" />
+
 
 > 💡 **Nota:** reemplaza la URL anterior por la imagen que tengas publicada en GitHub.
 
